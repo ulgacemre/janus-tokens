@@ -1,0 +1,11 @@
+{
+  "name": "Egg",
+  "type": "OMCHAIN",
+  "symbol": "EGG",
+  "decimals": 18,
+  "website": "",
+  "description": "Test Chicken",
+  "explorer": "https://explorer.omchain.io/address/0x3fc9953aE9c208E8fed9377B6FFB046bFA846cB7",
+  "status": "active",
+  "id": "0x3fc9953aE9c208E8fed9377B6FFB046bFA846cB7"
+}

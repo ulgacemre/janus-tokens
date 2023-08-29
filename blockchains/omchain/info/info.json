@@ -1,0 +1,27 @@
+{
+  "name": "Omchain",
+  "website": "https://omchain.io/",
+  "description": "Omchain is scalable and robust blockchain, built to satisfy the near real-time EVM need of everyone.",
+  "explorer": "https://explorer.omchain.io/",
+  "research": "https://github.com/OmchainFoundation",
+  "symbol": "OMC",
+  "rpc_url": "https://seed.omchain.io",
+  "type": "coin",
+  "coin_type": 21816,
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/omchainio"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/OmchainFoundation"
+    },
+    {
+      "name": "coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/omchain/"
+    }
+  ]
+}

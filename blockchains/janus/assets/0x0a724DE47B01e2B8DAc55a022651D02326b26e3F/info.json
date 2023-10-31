@@ -1,11 +1,11 @@
 {
-  "name": "Egg",
-  "type": "OMCHAIN",
-  "symbol": "EGG",
+  "name": "WJNS",
+  "type": "JANUS",
+  "symbol": "WJNS",
   "decimals": 18,
   "website": "",
-  "description": "Test Chicken",
-  "explorer": "https://explorer.omchain.io/address/0x3fc9953aE9c208E8fed9377B6FFB046bFA846cB7",
+  "description": "Wrapped Janus",
+  "explorer": "https://beta.test.janusnetwork.io/address/0x0a724DE47B01e2B8DAc55a022651D02326b26e3F",
   "status": "active",
   "id": "0x0a724DE47B01e2B8DAc55a022651D02326b26e3F"
 }

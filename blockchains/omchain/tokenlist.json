@@ -1,5 +1,5 @@
 {
-  "name": "Omeletteswap Default",
+  "name": "Janus Default",
   "timestamp": "2023-08-29T00:00:00.000Z",
   "version": {
     "major": 1,
@@ -10,61 +10,15 @@
   "logoURI": "https://raw.githubusercontent.com/yusufbenliii/assets/master/blockchains/omchain/assets/0xF7E326d3fBD9511f34Fac2E1865C989efE7d777c/logo.png",
   "keywords": ["omeletteswap", "default"],
   "tokens": [
+
     {
-      "chainId": 21816,
-      "name": "Test Omelette",
-      "address": "0xF7E326d3fBD9511f34Fac2E1865C989efE7d777c",
-      "symbol": "TOMLT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/yusufbenliii/assets/master/blockchains/omchain/assets/0xF7E326d3fBD9511f34Fac2E1865C989efE7d777c/logo.png"
-    },
-    {
-      "chainId": 21816,
-      "name": "Wrapped OMC",
-      "address": "0xeDF2261051b20Ce673A836673F609e8cF3d55306",
-      "symbol": "WOMC",
+      "chainId": 66987,
+      "name": "Wrapped JNS",
+      "address": "0x0a724DE47B01e2B8DAc55a022651D02326b26e3F",
+      "symbol": "WJNS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/yusufbenliii/assets/master/blockchains/omchain/assets/0xeDF2261051b20Ce673A836673F609e8cF3d55306/logo.png"
     },
-    {
-      "chainId": 21816,
-      "name": "USD Coin",
-      "address": "0xa7964ecD7a71007589254D18c72EA7665ED15F4b",
-      "symbol": "USDC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/yusufbenliii/assets/master/blockchains/omchain/assets/0xa7964ecD7a71007589254D18c72EA7665ED15F4b/logo.png"
-    },
-    {
-      "chainId": 21816,
-      "name": "Chicken",
-      "address": "0xf923302EDCEF3A3660B39A5eC458B18a75736A23",
-      "symbol": "CKN",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/yusufbenliii/assets/master/blockchains/omchain/assets/0xf923302EDCEF3A3660B39A5eC458B18a75736A23/logo.png"
-    },
-    {
-      "chainId": 21816,
-      "name": "Egg",
-      "address": "0x3fc9953aE9c208E8fed9377B6FFB046bFA846cB7",
-      "symbol": "EGG",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/yusufbenliii/assets/master/blockchains/omchain/assets/0x3fc9953aE9c208E8fed9377B6FFB046bFA846cB7/logo.png"
-    },
-    {
-      "chainId": 21816,
-      "name": "Rooster",
-      "address": "0x8244FcB9E322036e6C864F7FCee7a7457661c85E",
-      "symbol": "RST",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/yusufbenliii/assets/master/blockchains/omchain/assets/0x8244FcB9E322036e6C864F7FCee7a7457661c85E/logo.png"
-    },
-    {
-      "chainId": 21816,
-      "name": "Duckling",
-      "address": "0xbC3F33C0474A881BAAa1eD9A64c0A61362aA427d",
-      "symbol": "DCK",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/yusufbenliii/assets/master/blockchains/omchain/assets/0xbC3F33C0474A881BAAa1eD9A64c0A61362aA427d/logo.png"
-    }
+   
   ]
 }

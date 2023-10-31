@@ -5,7 +5,7 @@
   "explorer": "https://beta.test.janusnetwork.io/",
   "research": "https://github.com/Janus-labs",
   "symbol": "JNS",
-  "rpc_url": "https://rpc.test.omchain.io",
+  "rpc_url": "https://rpc.test.janusnetwork.io",
   "type": "coin",
   "coin_type": 66987,
   "decimals": 18,

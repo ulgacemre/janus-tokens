@@ -1,27 +1,27 @@
 {
-  "name": "Omchain",
-  "website": "https://omchain.io/",
-  "description": "Omchain is scalable and robust blockchain, built to satisfy the near real-time EVM need of everyone.",
-  "explorer": "https://explorer.omchain.io/",
-  "research": "https://github.com/OmchainFoundation",
-  "symbol": "OMC",
-  "rpc_url": "https://seed.omchain.io",
+  "name": "Janus",
+  "website": "https://janusnetwork.io/",
+  "description": "Janus is scalable and robust blockchain, built to satisfy the near real-time EVM need of everyone.",
+  "explorer": "https://beta.test.janusnetwork.io/",
+  "research": "https://github.com/Janus-labs",
+  "symbol": "JNS",
+  "rpc_url": "https://rpc.test.omchain.io",
   "type": "coin",
-  "coin_type": 21816,
+  "coin_type": 66987,
   "decimals": 18,
   "status": "active",
   "links": [
     {
       "name": "twitter",
-      "url": "https://twitter.com/omchainio"
+      "url": "https://twitter.com/NetworkJanus"
     },
     {
       "name": "github",
-      "url": "https://github.com/OmchainFoundation"
+      "url": "https://github.com/Janus-labs"
     },
     {
       "name": "coinmarketcap",
-      "url": "https://coinmarketcap.com/currencies/omchain/"
+      "url": "https://coinmarketcap.com/currencies/janus-network/"
     }
   ]
 }

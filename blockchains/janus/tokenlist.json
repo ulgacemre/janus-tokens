@@ -22,10 +22,10 @@
     {
       "chainId": 66987,
       "name": "NyxSwap",
-      "address": "0x3ebcCE590Cb1e2Df0DDfd64073B3cA2009dcdFED",
+      "address": "0xeEc7B8897C4Fe6fda109f3f4f3bC2acE3fFFDe39",
       "symbol": "NYX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ulgacemre/janus-tokens/main/blockchains/janus/assets/0x3ebcCE590Cb1e2Df0DDfd64073B3cA2009dcdFED/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ulgacemre/janus-tokens/main/blockchains/janus/assets/0xeEc7B8897C4Fe6fda109f3f4f3bC2acE3fFFDe39/logo.png"
     }
    
   ]

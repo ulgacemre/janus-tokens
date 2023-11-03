@@ -7,25 +7,25 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/ulgacemre/janus-tokens/main/blockchains/janus/assets/0x0a724DE47B01e2B8DAc55a022651D02326b26e3F/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/ulgacemre/janus-tokens/main/blockchains/janus/assets/0x8d0fB1c0b97b7729bF435AC6510613eD4Bc18b61/logo.png",
   "keywords": ["nyxswap", "default"],
   "tokens": [
 
     {
-      "chainId": 66987,
+      "chainId": 66988,
       "name": "Wrapped JNS",
-      "address": "0x0a724DE47B01e2B8DAc55a022651D02326b26e3F",
+      "address": "0x8d0fB1c0b97b7729bF435AC6510613eD4Bc18b61",
       "symbol": "WJNS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ulgacemre/janus-tokens/main/blockchains/janus/assets/0x0a724DE47B01e2B8DAc55a022651D02326b26e3F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ulgacemre/janus-tokens/main/blockchains/janus/assets/0x8d0fB1c0b97b7729bF435AC6510613eD4Bc18b61/logo.png"
     },
     {
-      "chainId": 66987,
+      "chainId": 66988,
       "name": "NyxSwap",
-      "address": "0xeEc7B8897C4Fe6fda109f3f4f3bC2acE3fFFDe39",
+      "address": "0x1daFa96e0Cc58AaA7d9ffE45D34f1b57d743dD4a",
       "symbol": "NYX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ulgacemre/janus-tokens/main/blockchains/janus/assets/0xeEc7B8897C4Fe6fda109f3f4f3bC2acE3fFFDe39/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ulgacemre/janus-tokens/main/blockchains/janus/assets/0x1daFa96e0Cc58AaA7d9ffE45D34f1b57d743dD4a/logo.png"
     }
    
   ]

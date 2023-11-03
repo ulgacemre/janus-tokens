@@ -1,0 +1,11 @@
+{
+  "name": "WJNS",
+  "type": "JANUS",
+  "symbol": "WJNS",
+  "decimals": 18,
+  "website": "",
+  "description": "Wrapped Janus",
+  "explorer": "https://beta.test.janusnetwork.io/address/0x8d0fB1c0b97b7729bF435AC6510613eD4Bc18b61",
+  "status": "active",
+  "id": "0x8d0fB1c0b97b7729bF435AC6510613eD4Bc18b61"
+}
